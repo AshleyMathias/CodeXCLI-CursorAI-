@@ -45,3 +45,26 @@ A CLI-based AI assistant inspired by **Cursor.AI** — built using LangGraph. It
 ```bash
 git clone https://github.com/AshleyMathias/cursorai-cli.git
 cd cursorai-cli
+```
+## Create a virtual environment
+
+```bash
+python -m venv venv
+source venv/bin/activate  # or venv\Scripts\activate on Windows
+```
+## Install dependencies
+```bash
+pip install -r requirements.txt
+```
+## Set your OpenAI API key
+
+```bash
+export OPENAI_API_KEY=your-key-here  # Or store in .env
+```
+## Run the assistant
+
+```bash
+python cursorai.py
+```
+
+
