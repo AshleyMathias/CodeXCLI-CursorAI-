@@ -68,22 +68,10 @@ python cursorai.py
 
 ---
 
-## 📂 Project Structure
-
-cursorai-cli/
-├── cursorai.py               # Main CLI LangGraph agent
-├── requirements.txt          # Python dependencies
-├── README.md                 # Project documentation
-├── LICENSE                   # MIT License
-└── screenshots/
-    └── cli_demo.png          # Optional screenshot for README
-
----
-
 ## ✨ Sample Use Case
 Build your own AI terminal assistant like Cursor.ai! This project handles user queries, decides if it's code-related, executes instructions, and verifies correctness — all from your terminal.
 
-# 💡 Try prompts like:
+💡 Try prompts like:
 
 - create a folder named test_files
 - how to write a bash loop
