@@ -1,4 +1,4 @@
-# CodeXCLI-CursorAI
+# 🧠 Cursor.AI CLI Replica — Command-Line AI Assistant
 [![LangGraph](https://img.shields.io/badge/Built%20with-LangGraph-purple.svg?logo=python&logoColor=white)](https://github.com/langchain-ai/langgraph)
 [![LangChain](https://img.shields.io/badge/LangChain-RAG%20Toolkit-blue.svg?logo=python&logoColor=white)](https://github.com/langchain-ai/langchain)
 [![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-orange.svg?logo=openai&logoColor=white)](https://www.pinecone.io/learn/retrieval-augmented-generation/)
