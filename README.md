@@ -26,7 +26,7 @@ A CLI-based AI assistant inspired by **Cursor.AI** — built using LangGraph. It
 
 | Terminal Interaction |
 |----------------------|
-| ![CLI Screenshot](screenshots/cli_demo.png) |
+| ![CLI Screenshot](Screenshots.png) |
 
 ---
 
