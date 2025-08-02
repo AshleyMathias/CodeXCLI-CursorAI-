@@ -86,9 +86,9 @@ Build your own AI terminal assistant like Cursor.ai! This project handles user q
 
 # 💡 Try prompts like:
 
-create a folder named test_files
-how to write a bash loop
-how to enter Google without DSA? (😂 roasted!)
+- create a folder named test_files
+- how to write a bash loop
+- how to enter Google without DSA? (😂 roasted!)
 
 Use it for:
 - Fast prototyping with shell-based AI
@@ -118,6 +118,7 @@ This project is licensed under the MIT License.
 You're free to use, modify, and share the codebase — just retain attribution.
 See the LICENSE file for full details.
 
+---
 
 <div align="center">
 📘 Built for developers who love the terminal and want AI to code, joke, and validate like a true teammate.
