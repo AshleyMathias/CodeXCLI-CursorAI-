@@ -108,8 +108,6 @@ See the LICENSE file for full details.
 ---
 
 <div align="center">
-📘 Built for developers who love the terminal and want AI to code, joke, and validate like a true teammate.
-
 
 <br/>
 🔗 Connect with me
@@ -121,7 +119,11 @@ See the LICENSE file for full details.
 
 <br/><br/>
 
-💻 Terminal-first. Fun. Fast. Functional.
-Let’s build something legendary.
+---
+
+<p align="center">
+  Built with 💻 and ☕ by <strong>Ashley Mathias</strong>
+</p>
+
 
 </div> 
