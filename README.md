@@ -67,4 +67,71 @@ export OPENAI_API_KEY=your-key-here  # Or store in .env
 python cursorai.py
 ```
 
+---
 
+## 📂 Project Structure
+
+cursorai-cli/
+├── cursorai.py               # Main CLI LangGraph agent
+├── requirements.txt          # Python dependencies
+├── README.md                 # Project documentation
+├── LICENSE                   # MIT License
+└── screenshots/
+    └── cli_demo.png          # Optional screenshot for README
+
+---
+
+## ✨ Sample Use Case
+Build your own AI terminal assistant like Cursor.ai! This project handles user queries, decides if it's code-related, executes instructions, and verifies correctness — all from your terminal.
+
+#💡 Try prompts like:
+
+create a folder named test_files
+how to write a bash loop
+how to enter Google without DSA? (😂 roasted!)
+
+Use it for:
+- Fast prototyping with shell-based AI
+- Agent routing + validation logic
+- CLI-based dev tools and AI hacks
+
+---
+
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+
+If you’d like to:
+- Suggest improvements
+- Report bugs
+- Add new features or integrations
+
+Feel free to fork the repository and submit a pull request.
+Please follow clean commit practices and open issues with context.
+
+Let’s build cool dev tools together 🚀
+
+---
+
+## 📄 License
+This project is licensed under the MIT License.
+
+You're free to use, modify, and share the codebase — just retain attribution.
+See the LICENSE file for full details.
+
+<div align="center">
+📘 Built for developers who love the terminal and want AI to code, joke, and validate like a true teammate.
+
+<br/>
+🔗 Connect with me
+<a href="https://www.linkedin.com/in/ashleymathias10" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ashley%20Mathias-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+   
+<a href="mailto:ashleymathias100@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-ff69b4?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+   
+<a href="https://github.com/AshleyMathias"><img src="https://img.shields.io/badge/GitHub-@AshleyMathias-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+
+<br/><br/>
+
+💻 Terminal-first. Fun. Fast. Functional.
+Let’s build something legendary.
+
+</div> ```
