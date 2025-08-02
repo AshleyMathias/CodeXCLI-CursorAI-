@@ -84,7 +84,7 @@ cursorai-cli/
 ## ✨ Sample Use Case
 Build your own AI terminal assistant like Cursor.ai! This project handles user queries, decides if it's code-related, executes instructions, and verifies correctness — all from your terminal.
 
-#💡 Try prompts like:
+# 💡 Try prompts like:
 
 create a folder named test_files
 how to write a bash loop
@@ -118,8 +118,10 @@ This project is licensed under the MIT License.
 You're free to use, modify, and share the codebase — just retain attribution.
 See the LICENSE file for full details.
 
+
 <div align="center">
 📘 Built for developers who love the terminal and want AI to code, joke, and validate like a true teammate.
+
 
 <br/>
 🔗 Connect with me
@@ -134,4 +136,4 @@ See the LICENSE file for full details.
 💻 Terminal-first. Fun. Fast. Functional.
 Let’s build something legendary.
 
-</div> ```
+</div> 
